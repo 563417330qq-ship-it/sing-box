@@ -1,4 +1,4 @@
-## 终端预览
+bash <(curl -fsSL sing-box-sigma.vercel## 终端预览
 
 ![preview](image.png)
 
